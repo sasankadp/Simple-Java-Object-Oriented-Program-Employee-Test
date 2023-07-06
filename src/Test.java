@@ -12,7 +12,7 @@ public class Test {
         do {
             System.out.println("===============================");
             System.out.println("Choose menu item: ");
-            System.out.println("1. Add and Save Employee ");
+            System.out.println("1. Add or Save Employee ");
             System.out.println("2. Get details on Employee ");
             System.out.println("3. Update/Modify Details ");
             System.out.println("4. Delete Employee ");
